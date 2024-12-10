@@ -1,15 +1,15 @@
 # Russian translations for com.github.lainsce.yishu package.
 # Copyright (C) 2019 THE com.github.lainsce.yishu'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the com.github.lainsce.yishu package.
-# Automatically generated, 2019.
+# Translated by Sergei Kharitonov <sergejharitonov001@gmail.com>, 2024.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: com.github.lainsce.yishu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-30 17:17+0100\n"
-"PO-Revision-Date: 2019-03-30 16:53+0100\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2024-12-10 17:17+0100\n"
+"PO-Revision-Date: 2024-12-10 16:53+0100\n"
+"Last-Translator: Sergei Kharitonov <sergejharitonov001@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -18,174 +18,179 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
+
 #: src/Application.vala:74
 msgid "Search task"
-msgstr ""
+msgstr "Поиск задачи"
 
 #: src/Application.vala:75
 msgid "Type Task Name"
-msgstr ""
+msgstr "Введите имя задачи"
 
 #: src/Application.vala:153
 msgid "Edit task"
-msgstr ""
+msgstr "Изменить задачу"
 
 #: src/Application.vala:154
 msgid "Delete task"
-msgstr ""
+msgstr "Удалить задачу"
 
 #: src/Application.vala:155
 msgid "Toggle done"
-msgstr ""
+msgstr "Переключение сделано"
 
 #: src/Application.vala:159 src/TaskDialog.vala:44 src/MainWindow.vala:197
 msgid "Priority"
-msgstr ""
+msgstr "Приоритет"
 
 #: src/Application.vala:162
 msgid "None"
-msgstr ""
+msgstr "Нет"
 
 #: src/Application.vala:383
 msgid "The task has been deleted"
-msgstr ""
+msgstr "Задача была удалена"
 
 #: src/Application.vala:385
 msgid "_Undo"
-msgstr ""
+msgstr "_Отменить"
 
 #: src/Application.vala:448
 msgid "The todo.txt file has been modified and been re-read"
-msgstr ""
+msgstr "Файл todo.txt был изменен и перезагружен"
 
 #: src/Task.vala:237
 msgid "Today"
-msgstr ""
+msgstr "Сегодня"
 
 #: src/Task.vala:240
 msgid "Yesterday"
-msgstr ""
+msgstr "Вчера"
 
 #: src/Task.vala:243
 msgid "days ago"
-msgstr ""
+msgstr "дней назад"
 
 #: src/TaskDialog.vala:33
 msgid "New Task"
-msgstr ""
+msgstr "Новая задача"
 
 #: src/TaskDialog.vala:43 src/MainWindow.vala:202
 msgid "Task"
-msgstr ""
+msgstr "Задача"
 
 #: src/TaskDialog.vala:88
 msgid ""
 "Adding + to a word will categorize the task.\n"
 "Adding @ to a word will specify the task's place."
 msgstr ""
+"Добавление + к слову будет категоризировать задачу.\n"
+"Добавление @ к слову укажет место выполнения задачи."
 
 #: src/TaskDialog.vala:90
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 #: src/TaskDialog.vala:91
 msgid "OK"
-msgstr ""
+msgstr "ОК"
 
 #: src/MainWindow.vala:46
 msgid "Yishu"
-msgstr ""
+msgstr "Ищу"
 
 #: src/MainWindow.vala:91
 msgid "No Todo.txt File Open"
-msgstr ""
+msgstr "Нет открытого файла Todo.txt"
 
 #: src/MainWindow.vala:91
 msgid "Open a todo.txt file to start adding tasks"
-msgstr ""
+msgstr "Откройте файл todo.txt, чтобы начать добавлять задачи"
 
 #: src/MainWindow.vala:92
 msgid "Add task"
-msgstr ""
+msgstr "Добавить задачу"
 
 #: src/MainWindow.vala:92
 msgid "Create a new todo.txt file with this task in your Home folder"
-msgstr ""
+msgstr "Создайте новый файл todo.txt с этой задачей в вашей домашней папке"
 
 #: src/MainWindow.vala:93
 msgid "What is a todo.txt file?"
-msgstr ""
+msgstr "Что такое файл todo.txt?"
 
 #: src/MainWindow.vala:93
 msgid "Learn more about todo.txt files"
-msgstr ""
+msgstr "Узнайте больше о файлах todo.txt"
 
 #: src/MainWindow.vala:94
 msgid "No Todo.txt File Found"
-msgstr ""
+msgstr "Файл Todo.txt не найден"
 
 #: src/MainWindow.vala:94
 msgid "Add tasks to start this todo.txt file"
-msgstr ""
+msgstr "Добавьте задачи, чтобы начать этот файл todo.txt"
 
 #: src/MainWindow.vala:105
 msgid "Add task…"
-msgstr ""
+msgstr "Добавить задачу…"
 
 #: src/MainWindow.vala:109 src/Preferences.vala:28
 msgid "Preferences"
-msgstr ""
+msgstr "Параметры"
 
 #: src/MainWindow.vala:125
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #: src/MainWindow.vala:209
 msgid "Done"
-msgstr ""
+msgstr "Готово"
 
 #: src/Preferences.vala:38
 msgid "Todo.txt Preferences"
-msgstr ""
+msgstr "Параметры Todo.txt"
 
 #: src/Preferences.vala:39
 msgid "Default Location:"
-msgstr ""
+msgstr "Папка по умолчанию:"
 
 #: src/Preferences.vala:42
 msgid "Home Folder"
-msgstr ""
+msgstr "Домашняя папка"
 
 #: src/Preferences.vala:43
 msgid "Dropbox Folder"
-msgstr ""
+msgstr "Папка Dropbox"
 
 #: src/Preferences.vala:44
 msgid "Nextcloud Folder"
-msgstr ""
+msgstr "Папка Nextcloud"
 
 #: src/Preferences.vala:45
 msgid "ownCloud Folder"
-msgstr ""
+msgstr "Папка ownCloud"
 
 #: src/Preferences.vala:46
 msgid "Other Clients Folder"
-msgstr ""
+msgstr "Папка других клиентов"
 
 #: src/Preferences.vala:103
 msgid "Custom Location:"
-msgstr ""
+msgstr "Пользовательская папка:"
 
 #: src/Preferences.vala:105
 msgid "Open your file"
-msgstr ""
+msgstr "Откройте ваш файл"
 
 #: src/Preferences.vala:111
 msgid ""
 "Enabling custom locations will have you save your file\n"
 "in other places not recognized by other clients."
 msgstr ""
+"Включение пользовательских папок позволит вам сохранять файл\n"
+"в других местах, не распознаваемых другими клиентами."
 
 #: src/Preferences.vala:160
 msgid "Close"
-msgstr ""
+msgstr "Закрыть"
