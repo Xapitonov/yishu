@@ -1,5 +1,7 @@
 # ![icon](data/icon.png) Yishu (艺术)
 
+**English** | [Русский](README_RU.md)
+
 ## A bespoke and simple Todo.txt client
 
 [![Get it on AppCenter](https://appcenter.elementary.io/badge.svg)](https://appcenter.elementary.io/com.github.lainsce.yishu)
