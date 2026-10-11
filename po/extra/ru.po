@@ -21,115 +21,124 @@ msgstr ""
 #: data/com.github.lainsce.yishu.desktop.in:3
 #: data/com.github.lainsce.yishu.appdata.xml.in:6
 msgid "Yishu"
-msgstr ""
+msgstr "Yishu"
 
 #: data/com.github.lainsce.yishu.desktop.in:4
 #: data/com.github.lainsce.yishu.appdata.xml.in:7
 msgid "A bespoke and simple Todo.txt client"
-msgstr ""
+msgstr "Простой и оригинальный клиент Todo.txt"
 
 #: data/com.github.lainsce.yishu.desktop.in:7
 msgid "com.github.lainsce.yishu"
-msgstr ""
+msgstr "com.github.lainsce.yishu"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:9
 msgid ""
 "Write a to-do list that will be easy to sync with most known Todo.txt clients"
 msgstr ""
+"Создавайте список дел, который легко синхронизируется с большинством "
+"известных клиентов Todo.txt"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:11
 msgid "Quit anytime with the shortcut Ctrl + Q"
-msgstr ""
+msgstr "Выход в любое время по сочетанию клавиш Ctrl + Q"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:12
 msgid "Easily shareable with other Todo.txt clients on other platforms"
 msgstr ""
+"Легко доступен для совместного использования с другими клиентами Todo.txt "
+"на других платформах"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:18
 msgid "Lains"
-msgstr ""
+msgstr "Lains"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:58
 msgid "Release: Zeit and Temps"
-msgstr ""
+msgstr "Выпуск: Zeit and Temps"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:60
 msgid "German and French translations."
-msgstr ""
+msgstr "Немецкий и французский переводы."
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:66
 msgid "Release: Search &amp; Blues"
-msgstr ""
+msgstr "Выпуск: Search &amp; Blues"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:68
 msgid "NEW: Search your tasks."
-msgstr ""
+msgstr "НОВОЕ: Поиск по задачам."
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:69
 msgid "FIX: Task folder is properly saved now."
-msgstr ""
+msgstr "ИСПРАВЛЕНО: Папка задач теперь сохраняется корректно."
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:75
 msgid "Release: Juno Offering"
-msgstr ""
+msgstr "Выпуск: Juno Offering"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:77
 msgid "Juno update."
-msgstr ""
+msgstr "Обновление для Juno."
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:83
 msgid "Release: Flute Playing at an Temple"
-msgstr ""
+msgstr "Выпуск: Flute Playing at an Temple"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:85
 msgid ""
 "Fixed retaining a list open on close and also adding tasks correctly to a "
 "list."
 msgstr ""
+"Исправлено сохранение открытого списка при закрытии, а также корректное "
+"добавление задач в список."
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:91
 msgid "Release: Water Painting a Picture"
-msgstr ""
+msgstr "Выпуск: Water Painting a Picture"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:93
 msgid ""
 "Fixed internal GTK deprecations so the app doesn't complain about unused "
 "things."
 msgstr ""
+"Исправлены внутренние устаревшие вызовы GTK, чтобы приложение не выдавало "
+"предупреждений о неиспользуемых элементах."
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:94
 msgid "New icon that improves on the old one."
-msgstr ""
+msgstr "Новая иконка, улучшающая старую."
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:100
 msgid "Release: Rest Easy and Calligraphy"
-msgstr ""
+msgstr "Выпуск: Rest Easy and Calligraphy"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:102
 msgid ""
 "Added a preferences dialog with a setting to where to save the todo.txt file."
 msgstr ""
+"Добавлен диалог параметров с настройкой места сохранения файла todo.txt."
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:108
 msgid "Release: Bamboo Shoots in the Sand"
-msgstr ""
+msgstr "Выпуск: Bamboo Shoots in the Sand"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:110
 msgid "Added the option to create new todo.txt files on welcome."
-msgstr ""
+msgstr "Добавлена возможность создавать новые файлы todo.txt на экране приветствия."
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:116
 msgid "Release: A Tree Waving in the Wind"
-msgstr ""
+msgstr "Выпуск: A Tree Waving in the Wind"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:118
 msgid "Fixed minor things for the AppCenter review."
-msgstr ""
+msgstr "Исправлены мелкие недочёты для проверки в AppCenter."
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:124
 msgid "Release: A River Crossing"
-msgstr ""
+msgstr "Выпуск: A River Crossing"
 
 #: data/com.github.lainsce.yishu.appdata.xml.in:126
 msgid "First release."
-msgstr ""
+msgstr "Первый выпуск."
