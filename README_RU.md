@@ -1,4 +1,4 @@
-# ![icon](data/icon.png) Yishu (艺术)
+# ![icon](data/icon.png) Yishu (Искусство)
 
 [English](README.md) | **Русский**
 
